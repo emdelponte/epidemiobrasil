@@ -3,30 +3,52 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Notícias"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "EpidemioBrasil 2020"
+  url = "/chapeco2020/sobre"
   weight = 30
 
+
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Organização"
+  url = "/chapeco2020/sobre"
+  weight = 25
+  parent = "EpidemioBrasil 2020"
+
+[[main]]
+  name = "Programação"
+  url = "/chapeco2020/programa"
+  weight = 25
+  parent = "EpidemioBrasil 2020"
+
+[[main]]
+  name = "Edições anteriores"
+  url = "edicoes/anteriores"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Histórico do evento"
+  url = "/edicoes/anteriores"
+  weight = 25
+  parent = "Edições anteriores"
+
+[[main]]
+  name = "2016 (Cruz da Almas)"
+  url = "/edicoes/2016"
+  weight = 35
+  parent = "Edições anteriores"
+
+  [[main]]
+  name = "2013 (Curitiba)"
+  url = "/edicoes/2013"
+  weight = 39
+  parent = "Edições anteriores"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
