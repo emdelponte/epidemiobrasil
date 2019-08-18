@@ -16,9 +16,9 @@ image:
 projects: []
 ---
 
-<img src = "/img/logo_dark.png" align=right>É com satisfação que recebemos a incubência de organizar o VI Workshop Brasileiro de Epidemiologia de Doenças de Plantas, o EpidemioBrasil. O evento ocorrerá nos dias 2 e 3 de setembro de 2020, no Centro de Treinamento da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri), em Chapecó.
+<img src = "/img/logo_dark.png" align=right>É com satisfação que recebemos a incumbência de organizar o VI EpidemioBrasil - Workshop Brasileiro de Epidemiologia de Doenças de Plantas, no Centro de Treinamento da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri), em Chapecó, nos dias 2 e 3 de setembro de 2020, 
 
-Este Workshop itinerante é promovido por um grupo de trabalho composto por estudantes, pesquisadores e profissionais da área de Epidemiologia de Doenças de Plantas. O propósito do evento é divulgar e discutir epidemiologia básica e aplicada ao manejo integrado de doenças de plantas, propondo soluções e desenvolvendo ferramentas de análises. Nessa edição do EpidemioBrasil será valorizada a participação dos epidemiologistas, estimulando integração entre grupos de pesquisa para o desenvolvimento de estratégias que propiciem o cultivo e manutenção de plantas saudáveis com menor impacto ambiental. O Comitê Organizador do EpidemioBrasil conta com sua participação!
+Este Workshop itinerante originou-se da mobilização de um grupo de trabalho independent composto por estudantes, pesquisadores e profissionais da área de Epidemiologia de Doenças de Plantas do Brasil. O propósito do evento é divulgar e discutir epidemiologia básica e aplicada ao manejo integrado de doenças de plantas, propondo soluções e desenvolvendo ferramentas de análises. Nessa edição do EpidemioBrasil será valorizada a participação dos epidemiologistas, estimulando integração entre grupos de pesquisa para o desenvolvimento de estratégias que propiciem o cultivo e manejo de plantas saudáveis com menor impacto ambiental. O Comitê Organizador do EpidemioBrasil conta com sua participação!
 
 
 Atenciosamente
