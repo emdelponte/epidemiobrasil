@@ -16,11 +16,10 @@ image:
 projects: []
 ---
 
-É com grande satisfação e orgulho que convidamos os acadêmicos e profissionais que atuam em Epidemiologia de Doenças de Plantas a estarem conosco em Chapecó no período de 2 a 3 de setembro de 2020, participando do VI Workshop Brasileiro de Epidemiologia de Doenças de Plantas (EpidemioBrasil). O evento ocorrerá na sede da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (EPAGRI) e está sendo organizado em parceria com colegas da UFV, ESALQ-USP, UFPR e Embrapa Mandioca e Fruticultura, com o apoio da Sociedade Brasileira de Fitopatologia (SBF) por meio do Grupo Temático de Trabalho de Epidemiologia.
+<img src = "/img/logo_dark.png" align=right>É com satisfação que recebemos a incubência de organizar o VI Workshop Brasileiro de Epidemiologia de Doenças de Plantas, o EpidemioBrasil. O evento ocorrerá nos dias 2 e 3 de setembro de 2020, no Centro de Treinamento da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri), em Chapecó.
 
-O workshop EpidemioBrasil tem por objetivo principal unir estudantes, pesquisadores e profissionais da área de Epidemiologia de Doenças de Plantas do Brasil, bem como de outros países, para discutir temas emergentes de cunho teórico e prático para o avanço do ensino e pesquisa na área de Epidemiologia no Brasil, em especial dando suporte à elaboração de estratégias para superar doenças que afetam plantas em escala local e regional. 
+Este Workshop itinerante é promovido por um grupo de trabalho composto por estudantes, pesquisadores e profissionais da área de Epidemiologia de Doenças de Plantas. O propósito do evento é divulgar e discutir epidemiologia básica e aplicada ao manejo integrado de doenças de plantas, propondo soluções e desenvolvendo ferramentas de análises. Nessa edição do EpidemioBrasil será valorizada a participação dos epidemiologistas, estimulando integração entre grupos de pesquisa para o desenvolvimento de estratégias que propiciem o cultivo e manutenção de plantas saudáveis com menor impacto ambiental. O Comitê Organizador do EpidemioBrasil conta com sua participação!
 
-Reservem à data e voltem à esta página para ficar por dentro das novidades que estaremos preparando para o evento. 
 
 Atenciosamente
 
