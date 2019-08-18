@@ -24,7 +24,7 @@ Este Workshop itinerante originou-se da mobilização de um grupo de trabalho in
 Atenciosamente
 
 **Maria Cristina CR da Silva**  
-Presidente da Comissão Organizadora  
+Presidente da Comissão Organizadora    
 EpidemioBrasil 2020
 
 <br><br>
