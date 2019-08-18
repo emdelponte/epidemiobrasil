@@ -46,7 +46,6 @@ subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
  # CSS class.
  css_class = ""
 +++
-
 <img src = "/img/logo_dark.png">
 <br>
 <br>
@@ -55,13 +54,9 @@ subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
 <br>
 <br>
 <br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
