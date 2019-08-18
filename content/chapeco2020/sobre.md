@@ -24,8 +24,8 @@ Presidente: Maria Cristina C.R. da Silva (Epagri)
 Membro: Cristiano Nunes Nesi (Epagri)
 
 **Comitê Técnico-Científico**  
-Armando Bergamin Filho (ESALA-USP)
-Emerson M. Del Ponte (UFV)
-Francisco Laranjeira (Embrapa)
-Louise Larissa May de Mio (UFPR)
+Armando Bergamin Filho (ESALA-USP)  
+Emerson M. Del Ponte (UFV)  
+Francisco Laranjeira (Embrapa)  
+Louise Larissa May de Mio (UFPR)  
 
