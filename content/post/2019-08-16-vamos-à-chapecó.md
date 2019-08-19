@@ -6,7 +6,7 @@ slug: primeira-chamada
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: 'É com satisfação que recebemos a incumbência de organizar o VI EpidemioBrasil - Workshop Brasileiro de Epidemiologia de Doenças de Plantas, no Centro de Treinamento da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri).'
 lastmod: ''
 featured: no
 image:
