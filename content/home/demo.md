@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "VI EpidemioBrasil"
-subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
+subtitle = "Workshop Brasileiro de Epidemiologia de Doenças de Plantas<BR>Chapecó SC, 2 a 3 setembro de 2020"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,7 +29,7 @@ subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
   gradient_end = ""
   
   # Background image.
-  image = "chapeco3.jpg"  # Name of image in `static/img/`.
+  image = "website/chapeco3.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,7 +37,7 @@ subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "20", "20px", "0"]
+  padding = ["40px", "0px", "0px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -46,16 +46,7 @@ subtitle = "Chapecó-SC, 2 a 3 setembro de 2020"
  # CSS class.
  css_class = ""
 +++
-<img src = "/img/logo_dark.png">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<img src = "/img/website/logo_dark.png" width = 350>
 
 
 

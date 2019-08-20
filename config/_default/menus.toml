@@ -7,6 +7,7 @@
 [[main]]
   name = "Notícias"
   url = "#posts"
+  pre = "<i class='fa fa-pencil'></i>"
   weight = 20
 
 [[main]]
@@ -39,16 +40,43 @@
   parent = "Edições anteriores"
 
 [[main]]
-  name = "2016 (Cruz da Almas)"
+  name = "2016 Cruz da Almas"
   url = "/edicoes/2016"
   weight = 35
   parent = "Edições anteriores"
 
   [[main]]
-  name = "2013 (Curitiba)"
+  name = "2013 Curitiba"
+  url = "/edicoes/2013"
+  weight = 36
+  parent = "Edições anteriores"
+
+  [[main]]
+  name = "2013 Curitiba"
+  url = "/edicoes/2013"
+  weight = 37
+  parent = "Edições anteriores"
+
+
+  [[main]]
+  name = "2010 Bento Gonçalves"
+  url = "/edicoes/2013"
+  weight = 38
+  parent = "Edições anteriores"
+
+
+  [[main]]
+  name = "2007 Campos do Jordão"
   url = "/edicoes/2013"
   weight = 39
   parent = "Edições anteriores"
+
+  [[main]]
+  name = "2004 Viçosa"
+  url = "/edicoes/2013"
+  weight = 40
+  parent = "Edições anteriores"
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

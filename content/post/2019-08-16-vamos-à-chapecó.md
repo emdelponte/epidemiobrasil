@@ -20,11 +20,11 @@ projects: []
 
 Este Workshop itinerante originou-se da mobilização de um grupo de trabalho independente composto por estudantes, pesquisadores e profissionais da área de Epidemiologia de Doenças de Plantas do Brasil. O propósito do evento é divulgar e discutir epidemiologia básica e aplicada ao manejo integrado de doenças de plantas, propondo soluções e desenvolvendo ferramentas de análises. Nessa edição do EpidemioBrasil será valorizada a participação dos epidemiologistas, estimulando integração entre grupos de pesquisa para o desenvolvimento de estratégias que propiciem o cultivo e manejo de plantas saudáveis com menor impacto ambiental. O Comitê Organizador do EpidemioBrasil conta com sua participação!
 
-Atenciosamente
+Atenciosamente  
 
-Maria Cristina Canale
-Presidente da Comissão Organizadora
-EpidemioBrasil 2020
+**Maria Cristina Canale**  
+Presidente da Comissão Organizadora  
+EpidemioBrasil 2020  
 
 <br><br>
 
