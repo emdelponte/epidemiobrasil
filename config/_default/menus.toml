@@ -51,29 +51,24 @@
   weight = 36
   parent = "Edições anteriores"
 
-  [[main]]
-  name = "2013 Curitiba"
-  url = "/edicoes/2013"
-  weight = 37
-  parent = "Edições anteriores"
 
 
   [[main]]
   name = "2010 Bento Gonçalves"
-  url = "/edicoes/2013"
+  url = "/edicoes/2010"
   weight = 38
   parent = "Edições anteriores"
 
 
   [[main]]
   name = "2007 Campos do Jordão"
-  url = "/edicoes/2013"
+  url = "/edicoes/2007"
   weight = 39
   parent = "Edições anteriores"
 
   [[main]]
   name = "2004 Viçosa"
-  url = "/edicoes/2013"
+  url = "/edicoes/2004"
   weight = 40
   parent = "Edições anteriores"
 
