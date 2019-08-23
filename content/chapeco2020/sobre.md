@@ -16,15 +16,16 @@ header:
 
 ## Apresentação
 
+<img src = "/img/website/logo.png" align=right width = 280>
 O VI EpidemioBrasil - Workshop de Epidemiologia de Doenças de Plantas, será realizado em Chapecó no período de 2 a 3 de setembro de 2020. O evento é organizado por pesquisadores da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (EPAGRI) em parceria com pesquisadores da UFV, ESALQ-USP, UFPR e Embrapa Mandioca e Fruticultura, com o apoio da Sociedade Brasileira de Fitopatologia (SBF) por meio do Grupo Temático de Trabalho em Epidemiologia.
 
 <br>
 **Comissão Organizadora**  
-Presidente: Maria Cristina C.R. da Silva (Epagri)  
+Presidente: Maria Cristina Canale (Epagri)  
 Membro: Cristiano Nunes Nesi (Epagri)
 
 **Comitê Técnico-Científico**  
-Armando Bergamin Filho (ESALA-USP)  
+Armando Bergamin Filho (ESALQ/USP)  
 Emerson M. Del Ponte (UFV)  
 Francisco Laranjeira (Embrapa)  
 Louise Larissa May de Mio (UFPR)  
