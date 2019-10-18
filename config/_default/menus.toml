@@ -4,15 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 
-[[main]]
-  name = "Notícias"
-  url = "#posts"
-  pre = "<i class='fa fa-pencil'></i>"
-  weight = 20
+
 
 [[main]]
   name = "EpidemioBrasil 2020"
   url = "/chapeco2020/sobre"
+  weight = 20
+
+[[main]]
+  name = "Notícias"
+  url = "#posts"
+  pre = "<i class='fa fa-pencil'></i>"
   weight = 30
 
 

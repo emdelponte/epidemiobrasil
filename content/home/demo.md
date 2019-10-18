@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "VI EpidemioBrasil"
-subtitle = "Workshop Brasileiro de Epidemiologia de Doenças de Plantas<BR>Chapecó SC, 2 a 3 setembro de 2020"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,11 +29,11 @@ subtitle = "Workshop Brasileiro de Epidemiologia de Doenças de Plantas<BR>Chape
   gradient_end = ""
   
   # Background image.
-  image = "website/chapeco3.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "website/chapeco4.jpg"  # Name of image in `static/img/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -46,8 +46,10 @@ subtitle = "Workshop Brasileiro de Epidemiologia de Doenças de Plantas<BR>Chape
  # CSS class.
  css_class = ""
 +++
-<img src = "/img/website/logo_dark.png" width = 350>
-
+<BR><br>
+<img src = "/img/website/logo.png" width = 400>
+<BR>
+<BR><BR>
 
 
 

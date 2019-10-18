@@ -5,8 +5,8 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 25  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "20", "20px", "0"]
+  padding = ["0px", "0px", "0px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -46,13 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<table><tr><td style = #ffffff><img src = "/img/EPAGRI.png"</td>
-<td>
-<img src = "/img/EMBRAPA.png"</td>
-</tr></table>
+<div align = center>
+<img src = "/img/logos_apoio/logos.png" align = center width=80%>  
+</div>
 
-
-
-
-<br>
-<br>
