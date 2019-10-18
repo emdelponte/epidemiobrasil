@@ -19,8 +19,8 @@ header:
 A primeira edição do Workshop foi realizada no ano de 2004, organizada pela área de Epidemiologia da Universidade Federal de Viçosa. Na ocasião foi sugerido que o evento ocorresse a cada três anos.
 
 - 2004 Viçosa (MG) - UFV
-- 2007 Campos do Jordão (SP) - ESALq
-- 2010 Bento Gonçalves (RS) - Embrapa Uva e Vinho/Esalq
+- 2007 Campos do Jordão (SP) - ESALQ/USP
+- 2010 Bento Gonçalves (RS) - Embrapa Uva e Vinho e ESALQ/USP
 - 2013 Curitiba (PR) - UFPR 
 - 2016 Cruz das Almas (BA) - Embrapa Mandioca e Fruticultura
 - 2020 Chapecó (SC) - EPAGRI

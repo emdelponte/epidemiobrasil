@@ -24,10 +24,18 @@
   weight = 25
   parent = "EpidemioBrasil 2020"
 
+
+[[main]]
+  name = "Local do evento"
+  url = "/chapeco2020/local"
+  weight = 27
+  parent = "EpidemioBrasil 2020"
+
+
 [[main]]
   name = "Programação"
   url = "/chapeco2020/programa"
-  weight = 25
+  weight = 26
   parent = "EpidemioBrasil 2020"
 
 [[main]]
