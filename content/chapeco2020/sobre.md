@@ -28,6 +28,6 @@ Membro: Cristiano Nunes Nesi (Epagri)
 Armando Bergamin Filho (ESALQ/USP)  
 Emerson M. Del Ponte (UFV)  
 Francisco Laranjeira (Embrapa)  
-Lilian Amorim (ESALQ/USP)
+Lilian Amorim (ESALQ/USP)  
 Louise Larissa May de Mio (UFPR)  
 
