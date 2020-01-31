@@ -15,9 +15,6 @@ header:
 ---
 
 Abaixo a TABELA com os valores de inscrição no EpidemioBrasil 2020. Em breve divulgaremos as informações para efetuar o pagamento.  
-Nova linha.
-
-Teste de inclusão de texto!
 
 
 **Até 30 de abril**
