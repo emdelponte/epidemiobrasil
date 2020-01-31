@@ -14,7 +14,8 @@ header:
   image: ""
 ---
 
-Abaixo a tabela com os valores de inscrição no EpidemioBrasil 2020. Em breve divulgaremos as informações para efetuar o pagamento.
+Abaixo a TABELA com os valores de inscrição no EpidemioBrasil 2020. Em breve divulgaremos as informações para efetuar o pagamento.  
+Nova linha.
 
 
 **Até 30 de abril**
