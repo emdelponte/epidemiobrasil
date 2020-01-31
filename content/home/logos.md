@@ -46,7 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div align = center>
+<div align = center><br><br>
 <img src = "/img/logos_apoio/logos.png" align = center width=80%>  
 </div>
 
