@@ -44,7 +44,12 @@
   weight = 27
   parent = "EpidemioBrasil 2020"
 
-
+[[main]]
+  name = "Inscrições"
+  url = "/chapeco2020/hospedagem"
+  weight = 28
+  parent = "EpidemioBrasil 2020"
+  
 [[main]]
   name = "Edições anteriores"
   url = "edicoes/anteriores"
