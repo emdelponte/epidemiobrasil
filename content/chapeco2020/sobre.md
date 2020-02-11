@@ -1,4 +1,4 @@
----
+res---
 title: EpidemioBrasil 2020
 summary: 
 date: ""
@@ -22,7 +22,7 @@ O VI EpidemioBrasil - Workshop de Epidemiologia de Doenças de Plantas, será re
 <br>
 **Comissão Organizadora**  
 Presidente: Maria Cristina Canale (Epagri)  
-Membro: Cristiano Nunes Nesi (Epagri)
+Vice-Presidente: Cristiano Nunes Nesi (Epagri)
 
 **Comitê Técnico-Científico**  
 Armando Bergamin Filho (ESALQ/USP)  
