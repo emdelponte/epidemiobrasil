@@ -30,10 +30,10 @@ subtitle = ""
   
   # Background image.
   #image = "chapeco3.jpg"  # Name of image in `static/img/`.
-  #image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -48,5 +48,15 @@ subtitle = ""
 +++
 <div align = center><br><br>
 <img src = "/img/logos_apoio/logos.png" align = center width=80%>  
+
 </div>
+<center>
+[EPAGRI](https://www.epagri.sc.gov.br/) | 
+[UFV](http://www.ufv.br/) |
+[ESALQ](https://www.esalq.usp.br/) |
+[UFPR](https://www.ufpr.br/portalufpr/) | 
+[Embrapa Mandioca e Fruticultura](https://www.embrapa.br/mandioca-e-fruticultura) |
+[UCEFF](https://www.uceff.edu.br/)
+
+
 

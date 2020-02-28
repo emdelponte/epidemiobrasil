@@ -1,5 +1,5 @@
 ---
-title: Inscrições
+title: Inscrições 
 summary: 
 date: ""
 
@@ -14,13 +14,13 @@ header:
   image: ""
 ---
 
-Abaixo a TABELA com os valores de inscrição no EpidemioBrasil 2020. Em breve divulgaremos as informações para efetuar o pagamento.  
+<h3>Qual o valor do investimento?</h3>
 
-
+<br>
 **Até 30 de abril**
 
-Estudante sócio SBF:      **R$ 200**  (R$ 240 não-sócio)  
-Profissional sócio SBF:   **R$ 240**  (R$ 280 não-sócio)
+Estudante sócio SBF:      **R$ 200**  (R$ 240 não-sócio SBF)  
+Profissional sócio SBF:   **R$ 240**  (R$ 280 não-sócio SBF)
 
 
 **Após 30 de abril** (sócio e não-sócio SBF)  
@@ -29,8 +29,17 @@ Estudante: R$280
 Profissional: R$320
 
 {{% alert warning %}}
-A SBF considera sócio aquele membro que quitou a anuidade referente ao ano civil. Portanto, para obter o desconto para Sócio, deve realizar o pagamento da anuidade 2020 antes da inscrição no Workshop.
+A Sociedade Brasileira de Fitopatologia (SBF) considera sócio aquele membro que quitou a anuidade referente ao ano civil. Portanto, para obter o desconto para Sócio, deve realizar o pagamento da anuidade 2020 antes da inscrição no Workshop.
 {{% /alert  %}}
+
+
+<h3>Como inscrever-se?</h3>
+
+{{% alert note %}}
+A inscrição deve ser feita no sistema da UCEFF por meio deste   
+[link para inscrição](https://eventos.uceff.edu.br/users/login)
+{{% /alert  %}}
+
 
 
 

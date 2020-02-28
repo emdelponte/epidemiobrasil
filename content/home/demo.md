@@ -46,12 +46,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<BR><div align=center>
+<div align=center>
 <img src = "/img/website/logo.png" align=center>
-</div><br>
-<br>
-<br>
-<br>
+</div>
+
 
 
 
