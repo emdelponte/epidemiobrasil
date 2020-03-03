@@ -109,7 +109,7 @@ Café da manhã - R$ 10,00
 Jantar - R$ 15,00  
 
 
-*Valores sujeitos à alteração segundo INPC do período 2019 e 2020
+
 
 
 Observação: Quartos coletivos que podem comportar uma a quatro pessoas (depende da procura/disponibilidade), chuveiro elétrico, segurança 24 h, todos com camas box, ar-condicionado e wi-fi.
