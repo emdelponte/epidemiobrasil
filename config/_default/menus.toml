@@ -11,12 +11,6 @@
   url = "/chapeco2020/sobre"
   weight = 20
 
-[[main]]
-  name = "Notícias"
-  url = "#posts"
-  pre = "<i class='fa fa-pencil'></i>"
-  weight = 30
-
 
 [[main]]
   name = "Organização"
@@ -49,7 +43,7 @@
   url = "/chapeco2020/hospedagem"
   weight = 28
   parent = "EpidemioBrasil 2020"
-  
+
 [[main]]
   name = "Edições anteriores"
   url = "edicoes/anteriores"
