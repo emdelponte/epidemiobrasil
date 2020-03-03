@@ -37,7 +37,7 @@ http://www.hotelchapeco.com.br
 1 pessoa - R$ 120,00    
 2 pessoas - R$ 180,00   
 3 pessoas - R$ 210,00   
-4 pessoas - 280,00   
+4 pessoas - R$ 280,00   
 </br> 
 Observações: ISS de 4% sobre as diárias. Apartamentos luxo com TV à cabo (Led 32'), frigobar, telefone, ducha, climatizador e Wi-fi, café da manhã incluso. Garagem: R$ 15,00 a diária. 
 http://www.almasty.com.br
@@ -104,12 +104,12 @@ http://www.hotelnorth.com.br
 
 <h2>Cetrec - Centro de Treinamento da Epagri em Chapecó</h2>
 
-Tarifas: Pernoite - R$ 60,00  
-Café da manhã - R$ 10,00   
+Tarifas: Pernoite - R$ 65,00  
+Café da manhã - R$ 12,00   
 Jantar - R$ 15,00  
 
 
-*Valores sujeitos à alteração segundo INPC do período 2019 e 2020
+
 
 
 Observação: Quartos coletivos que podem comportar uma a quatro pessoas (depende da procura/disponibilidade), chuveiro elétrico, segurança 24 h, todos com camas box, ar-condicionado e wi-fi.
