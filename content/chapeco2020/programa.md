@@ -14,6 +14,58 @@ header:
   image: ""
 ---
 
+O evento terá início no dia 3 de setembro as 8h da manhã. A programação geral está em elaboração. No entanto, alguns nomes de palestrantes já estão confirmados, os quais podem ser conferidos abaixo. 
+
+Além das palestras, o evento terá sessão de poster, apresentação oral "minha tese em três minutos", mesa redonda sobre ensino de epidemiologia e demonstração de aplicativos. 
 
 
-Em construção.
+<h3>Palestra de abertura</h3>
+
+<b>Dr. Dani Shtiemberg</b>  
+Department of Plant Pathology and Weed research  
+ARO, Volcani Center, Israel  
+[Website](https://www.agri.gov.il/en/people/665.aspx)
+
+<h3> Palestrantes confirmados</h3>
+
+<b>Prof. Antonio Bergamin-Filho</b>  
+Departamento de Fitopatologia ESALQ/USP  
+
+<b> Profa. Lilian Amorim</b>  
+Departamento de Fitopatologia ESALQ/USP  
+
+<b> Dr. Pierri Spolti</b>  
+Crop Production System Lead Bayer  
+
+<b>Dr. José Maurício Fernandes</b>    
+Pesquisador Embrapa Trigo    
+
+<b>Dr. Juan Pablo Molina</b>    
+Pesquisador INTA Balcarce, Argentina  
+
+<b>Dr. Fernando Hinna</b>   
+Pesquisador SmartAgri     
+
+<b> Dr. Gustavo Beruski</b>  
+Prof. Faculdade de Ensino Superior Santa Bárbara - FAESB   
+
+<b>Dr. Leonardo Araújo</b>  
+Pesquisador EPAGRI, Florianópolis
+
+<b>Fabiane dos Santos</b>
+Comitê Estadual e Vigilância e Epidemiologia Vegetal - COVEV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
