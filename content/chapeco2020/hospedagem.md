@@ -49,7 +49,7 @@ http://www.almasty.com.br
 
 Single - R$ 164,00  
 Double - R$ 212,00  
-Triplo - R$ 210,00  
+Triplo - R$ 238,00  
 
 
 Observações: ISS de 4% sobre as diárias + R$ 1,20 de taxa de turismo por quarto. Café da manhã incluso. Garagem: R$ 15,00 a diária. 
