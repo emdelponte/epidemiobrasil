@@ -57,6 +57,13 @@ http://www.langhotel.com.br
 
 <hr>
 
+<h2>Mogano Premium<h2>
+Single - R$ 190,00 
+Double - R$ 245,00 
+
+Observações: ISS de 4% sobre as diárias. Café da manhã incluso. Garagem: R$ 18,00 a diária. 
+http://www.moganohoteis.com.br
+
 <h2>Mogano Business</h2>
 
 Individual - R$165,00  
@@ -91,13 +98,14 @@ Triplo - R$ 349,90
 Quadruplo - R$ 449,00   
 
 
-Tarifas para fechamento de 5 apartamentos - Ativada no momento da 5ª reserva mencionando o evento:
+Tarifas para fechamento de 5 apartamentos:
+
 Individual - R$ 149,90  
 Duplo - R$ 209,90   
 Triplo - R$ 299,90   
 Quadruplo - R$ 360,00   
 </br> 
-> Observações: cama box, ar condicionado Split, frigobar, televisor LED com canais fechados, Home Office e Wi-Fi livre. Café da manhã incluso. Garagem coberta com segurança 24 h. Transfer hotel/aeroporto: R$ 50,00 para até 4 pessoas independente do horário.
+> Observações: cama box, ar condicionado Split, frigobar, televisor LED com canais fechados, Home Office e Wi-Fi livre. Café da manhã incluso. Garagem coberta com segurança 24 h. Transfer hotel/aeroporto: R$ 50,00 para até 4 pessoas independente do horário. Hotel fora da cidade, próximo ao local do evento.
 http://www.hotelnorth.com.br
 
 <hr>
