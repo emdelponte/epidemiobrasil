@@ -21,9 +21,9 @@ Segue uma lista com sugestões de hotéis com tarifas diferenciadas para o event
 <h2>Hotel Chapecó Plus</h2>
 
 Aptos duplos e triplos   
-R$ 75,00 por pessoa nos aptos individuais   
-R$ 90,00 se na cama de solteiro     
-R$ 100,00 se na cama de casal   
+R$ 75,00 por pessoa nos aptos duplos e triplos   
+R$ 90,00, individual, se na cama de solteiro     
+R$ 100,00, individual, se na cama de casal   
 
 
 Observações: Todos os apartamentos possuem climatizador, Wi-Fi, TV a cabo, frigobar, secador de cabelo e café da manhã incluso.
