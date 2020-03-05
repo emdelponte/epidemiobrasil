@@ -21,14 +21,14 @@ Além das palestras, o evento terá sessão de poster, apresentação oral "minh
 
 <h3>Palestra de abertura</h3>
 
-<b>Dr. Dani Shtiemberg</b>  
+<b>Dr. Dani Shtienberg</b>  
 Department of Plant Pathology and Weed research  
 ARO, Volcani Center, Israel  
 [Website](https://www.agri.gov.il/en/people/665.aspx)
 
 <h3> Palestrantes confirmados</h3>
 
-<b>Prof. Armando Bergamin Filho</b>  
+<b>Prof. Armando Bergamim Filho</b>  
 Departamento de Fitopatologia ESALQ/USP  
 
 <b> Profa. Lilian Amorim</b>  
@@ -37,10 +37,10 @@ Departamento de Fitopatologia ESALQ/USP
 <b> Dr. Piérri Spolti</b>  
 Crop Production System Lead - Bayer Crop Science  
 
-<b>Dr. José Maurício Cunha Fernandes</b>    
+<b>Dr. José Maurício C. Fernandes</b>    
 Pesquisador Embrapa Trigo    
 
-<b>Dr. Juan Pablo Edwards Molina</b>    
+<b>Dr. Juan Pablo Edwards-Molina</b>    
 Pesquisador INTA Balcarce, Argentina  
 
 <b>Dr. Fernando Hinna</b>   
