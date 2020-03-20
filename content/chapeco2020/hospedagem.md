@@ -58,11 +58,14 @@ http://www.langhotel.com.br
 <hr>
 
 <h2>Mogano Premium<h2>
-Single - R$ 190,00 
+  
+Single - R$ 190,00
 Double - R$ 245,00 
 
 Observações: ISS de 4% sobre as diárias. Café da manhã incluso. Garagem: R$ 18,00 a diária. 
 http://www.moganohoteis.com.br
+
+<hr>
 
 <h2>Mogano Business</h2>
 
