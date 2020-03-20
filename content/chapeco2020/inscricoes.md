@@ -36,8 +36,7 @@ A Sociedade Brasileira de Fitopatologia (SBF) considera sócio aquele membro que
 <h3>Como inscrever-se?</h3>
 
 {{% alert note %}}
-A inscrição deve ser feita no sistema da UCEFF por meio deste   
-[link para inscrição](https://eventos.uceff.edu.br/users/login)
+As inscrições estão temporariamente suspensas devido à epidemia do Coronavírus. Informações em breve! 
 {{% /alert  %}}
 
 
