@@ -23,6 +23,6 @@ A primeira edição do Workshop foi realizada no ano de 2004, organizada pela á
 - 2010 Bento Gonçalves (RS) - Embrapa Uva e Vinho e ESALQ/USP
 - 2013 Curitiba (PR) - UFPR 
 - 2016 Cruz das Almas (BA) - Embrapa Mandioca e Fruticultura
-- 2020 Chapecó (SC) - EPAGRI
+- 2021 Chapecó (SC) - EPAGRI
 
 
