@@ -42,7 +42,7 @@
   name = "Hospedagem"
   url = "/chapeco2020/hospedagem"
   weight = 28
-  parent = "EpidemioBrasil 2020"
+  parent = "EpidemioBrasil 2021"
 
 [[main]]
   name = "Edições anteriores"
