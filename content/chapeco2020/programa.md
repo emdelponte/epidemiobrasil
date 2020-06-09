@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-O evento terá início na manhã do dia 2 de setembro. A programação geral está em elaboração. No entanto, alguns nomes de palestrantes já estão confirmados, os quais podem ser conferidos abaixo. 
+O evento terá início na manhã do dia 12 de maio. A programação geral está em elaboração. No entanto, alguns nomes de palestrantes já estão confirmados, os quais podem ser conferidos abaixo. 
 
 Além das palestras, o evento terá sessão de poster, apresentação oral "minha tese em três minutos", mesa redonda sobre ensino de epidemiologia e demonstração de aplicativos. 
 

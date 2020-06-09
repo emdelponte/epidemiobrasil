@@ -14,6 +14,9 @@ header:
   image: ""
 ---
 
+**Os valores poderão ser revistos para o ano de 2021**
+
+
 Segue uma lista com sugestões de hotéis com tarifas diferenciadas para o evento e que estão localizados de modo que seja facilitado o transporte solidário até o local do evento. Entretanto, a cidade dispõe de outras opções que podem ser consultadas pelo participante. De qualquer forma, cada participante deverá realizar a própria reserva!
 
 <hr>

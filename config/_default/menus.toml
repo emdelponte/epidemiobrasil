@@ -7,7 +7,7 @@
 
 
 [[main]]
-  name = "EpidemioBrasil 2020"
+  name = "EpidemioBrasil 2021"
   url = "/chapeco2020/sobre"
   weight = 20
 
@@ -16,27 +16,27 @@
   name = "Organização"
   url = "/chapeco2020/sobre"
   weight = 25
-  parent = "EpidemioBrasil 2020"
+  parent = "EpidemioBrasil 2021"
 
 
 [[main]]
   name = "Local do evento"
   url = "/chapeco2020/local"
   weight = 27
-  parent = "EpidemioBrasil 2020"
+  parent = "EpidemioBrasil 2021"
 
 
 [[main]]
   name = "Programação"
   url = "/chapeco2020/programa"
   weight = 26
-  parent = "EpidemioBrasil 2020"
+  parent = "EpidemioBrasil 2021"
 
 [[main]]
   name = "Inscrições"
   url = "/chapeco2020/inscricoes"
   weight = 27
-  parent = "EpidemioBrasil 2020"
+  parent = "EpidemioBrasil 2021"
 
 [[main]]
   name = "Hospedagem"

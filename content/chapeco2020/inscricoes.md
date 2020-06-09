@@ -17,13 +17,13 @@ header:
 <h3>Qual o valor do investimento?</h3>
 
 <br>
-**Até 30 de abril**
+**Até A DEFINIR**
 
 Estudante sócio SBF:      **R$ 200**  (R$ 240 não-sócio SBF)  
 Profissional sócio SBF:   **R$ 240**  (R$ 280 não-sócio SBF)
 
 
-**Após 30 de abril** (sócio e não-sócio SBF)  
+**Após AD DEFINIR** (sócio e não-sócio SBF)  
 
 Estudante: R$280  
 Profissional: R$320
