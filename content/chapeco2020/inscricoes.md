@@ -23,7 +23,7 @@ Estudante sócio SBF:      **R$ 200**  (R$ 240 não-sócio SBF)
 Profissional sócio SBF:   **R$ 240**  (R$ 280 não-sócio SBF)
 
 
-**Após AD DEFINIR** (sócio e não-sócio SBF)  
+**Após A DEFINIR** (sócio e não-sócio SBF)  
 
 Estudante: R$280  
 Profissional: R$320
