@@ -53,7 +53,7 @@ Prof. Faculdade de Ensino Superior Santa Bárbara - FAESB
 Pesquisador EPAGRI, São Joaquim
 
 <b>Fabiane dos Santos</b>  
-Comitê Estadual de Vigilância e Epidemiologia Vegetal - COVEV
+Departamento de Defesa Sanitária Vegetal, Cidasc
 
 
 
